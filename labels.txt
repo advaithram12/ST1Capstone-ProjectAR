@@ -1,0 +1,6 @@
+0 Constellations
+1 Cosmos Space
+2 Galaxy
+3 Planet
+4 Nebula
+5 Stars
