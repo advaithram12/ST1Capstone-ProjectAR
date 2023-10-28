@@ -3,8 +3,8 @@ This repository involves analyzing an astronomy image dataset and performing Exp
 This repository contains:
 1. EDA and PDA file done on google colab
 2. Streamlit App(Image Classification)
-3. Predictive model in .h5 type
-4. labels.txt which shows the classess involved
+3. Predictive model downloaded .h5 type
+4. labels.txt which shows the classess involved(Both the .h5 and the text files are needed for streamlit app to work)
 
 5. I have also included my presentation that explains the overview about the assignment
 
