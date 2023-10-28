@@ -30,7 +30,7 @@ def home_page():
         st.write("1. Upload an image from your device."
                  )
         st.write("2. Make sure its an image from these 6 classes (Planets, Galaxy, Cosmos Space, Nebula, Stars and Constellations)")
-        st.write("3. Make sure it is in JPEG format")
+        st.write("3. Make sure it is in JPEG or JPG format")
         st.write("4. Watch as the web app calculates what the picture is(Make sure its only related to space)")
 
 #Creating the classification learner page
