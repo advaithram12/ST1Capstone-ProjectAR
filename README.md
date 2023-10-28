@@ -6,4 +6,6 @@ This repository contains:
 3. Predictive model in .h5 type
 4. labels.txt which shows the classess involved
 
-5. This is the link to the dataset: https://www.kaggle.com/datasets/abhikalpsrivastava15/space-images-category/data
+5. I have also included my presentation that explains the overview about the assignment
+
+6. This is the link to the dataset: https://www.kaggle.com/datasets/abhikalpsrivastava15/space-images-category/data
